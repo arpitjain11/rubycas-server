@@ -1,3 +1,5 @@
+* Creating Gem with Authlogic Authenticators
+
 === 0.8.0 :: In Progress...
 
 * NEW:
